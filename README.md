@@ -3,17 +3,18 @@
 ## FILES
 Inside the folder backend/database you have 4 files (db.sql, load_db.sh, save_db.sh):
 
-**db.sql**
+**db.sql**  
 A .sql file containing your database.
 
-**load_db.sh**
+**load_db.sh**  
 A script that will load your database into MySQL. If the database doesn't exist, it will create it for you.
 
-**save_db.sh**
+**save_db.sh**  
 A script that will save the current state of your database, including the entries.
 
-**db_schema.png**
+**db_schema.png**  
 An image describing the provided database.
+
 
 
 ## REQUIEREMENTS

@@ -48,7 +48,7 @@ chmod +x load_db.sh
 
 ```
 
-Finally, go to the point chat-app/backend/database
+Finally, go to the folder "./database" with the command "cd".
 If you write "ls" you should be able to see the two scripts. 
 If not, you are not in the good spot.
 

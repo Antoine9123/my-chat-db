@@ -4,16 +4,17 @@
 Inside the folder backend/database you have 4 files (db.sql, load_db.sh, save_db.sh):
 
 **db.sql**
-a .sql file that contains your database as a file.
+A .sql file containing your database.
 
 **load_db.sh**
-a script that will load you db into mysql. If the database doesn't exist, it'll create it for you.
+A script that will load your database into MySQL. If the database doesn't exist, it will create it for you.
 
 **save_db.sh**
-a script that will save the actual state of your database, even the entries.
+A script that will save the current state of your database, including the entries.
 
 **db_schema.png**
-a image that describe the database provided
+An image describing the provided database.
+
 
 ## REQUIEREMENTS
 !!! ONLY WORKS ON LINUX OR WSL !!!

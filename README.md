@@ -1,4 +1,4 @@
-# LILIA DATABASE
+# MY CHAT DATABASE
 
 ## FILES
 Inside the folder backend/database you have 4 files (db.sql, load_db.sh, save_db.sh):
